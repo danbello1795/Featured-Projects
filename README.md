@@ -1,4 +1,4 @@
-Proyectos profesionales y académicos
+## Proyectos profesionales y académicos
 
 En el archivo PDF se encuentra un resumen de los proyectos que he realizado. En la carpeta Python se encuentran los scripts en dicho lenguaje.
 ## Características
