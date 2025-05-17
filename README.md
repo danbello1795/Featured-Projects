@@ -1,14 +1,13 @@
-## Proyectos profesionales y académicos
+## Professional and Academic Projects
 
-En el archivo PDF se encuentra un resumen de los proyectos que he realizado. En la carpeta Python se encuentran los scripts en dicho lenguaje.
-## Características
-- Existen dos carpetas que contienes los scripts que he programado de los proyectos que he realizado.
+In the PDF file, you will find a summary of the projects I have completed. In the Python folder, you will find the scripts in said language.
+- There are two folders that contain the scripts I have programmed for the projects I have carried out.
 
-## Uso
-Instrucciones para usar el proyecto.
+## Usage
+Instructions for using the project.
 
-## Estructura
+## Structure
 ```plaintext
 Python/
-├── newton.py  # Método de Newton Raphson con ejemplo un flash isotérmico
+├── newton.py  # Newton-Raphson method with an isothermal flash example
 
